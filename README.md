@@ -1,5 +1,9 @@
-### Hi there 👋
+# Halo semua!
 
+Perkenalkan nama saya **Yosua Putra Pratama**.  
+Saya seorang **Developer** di [Imapres](https://imapres.wonogirikab.go.id/).  
+Saya bertangguna jawab pada pengembangan dan perbaikan pada website Imapres tersebut dengan dibekali [sertifikasi dari progate](https://progate.com/course_certificate/0f8260d1qx0jex).  
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/yosua-pratama/)ku ya.
 <!--
 **yosua08/yosua08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
