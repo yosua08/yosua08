@@ -1,8 +1,16 @@
 # Halo semua!
 
 Perkenalkan nama saya **Yosua Putra Pratama**.  
-Saya seorang **Developer** di [Imapres](https://imapres.wonogirikab.go.id/).  
-Saya bertangguna jawab pada pengembangan dan perbaikan pada website Imapres tersebut dengan dibekali [sertifikasi dari progate](https://progate.com/course_certificate/0f8260d1qx0jex).  
+Saya seorang **Developer** di Website [Imapres](https://imapres.wonogirikab.go.id/) 2021/2022.  
+Saya bertangguna jawab pada pengembangan dan perbaikan pada website Imapres tersebut dengan dibekali:
+- [Sertifikasi dari Dicoding "Dasar Pemrograman Web"](https://www.dicoding.com/certificates/EYX47LDN6XDL).
+- [Sertifikasi dari Dicoding "Dasar Git dengan GitHub"](https://www.dicoding.com/certificates/MRZMK7E13PYQ).
+- [Sertifikasi dari Dicoding "Dasar Dasar Pemrograman untuk Menjadi Pengembang Software"](https://www.dicoding.com/certificates/2VX327QJVPYQ).
+- [Sertifikasi dari Dicoding "Logika Pemrograman (Programming Logic 101)"](https://www.dicoding.com/certificates/07Z6567MMXQR).
+- [Sertifikasi dari Dicoding "Dasar Visualisasi Data"](https://www.dicoding.com/certificates/MRZMKOVQ0PYQ).
+- [Sertifikasi dari progate "Khursus Python"](https://progate.com/course_certificate/0f8260d1qx0jex).
+- [Sertifikasi dari progate "Khursus Command Line"](http://progate.com/course_certificate/09664bfaqw6ya0).  
+
 Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/yosua-pratama/)ku ya.
 
 <p align="left">
