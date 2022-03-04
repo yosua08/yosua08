@@ -3,6 +3,7 @@
 Perkenalkan nama saya **Yosua Putra Pratama**.  
 Saya seorang **Developer** di Website [Imapres](https://imapres.wonogirikab.go.id/) 2021/2022.  
 Saya bertangguna jawab pada pengembangan dan perbaikan pada website Imapres tersebut dengan dibekali:
+- [Sertifikasi dari Dicoding "Dasar Pemrograman JavaScript"](https://www.dicoding.com/certificates/4EXG60VWEZRL).
 - [Sertifikasi dari Dicoding "Dasar Pemrograman Web"](https://www.dicoding.com/certificates/EYX47LDN6XDL).
 - [Sertifikasi dari Dicoding "Dasar Git dengan GitHub"](https://www.dicoding.com/certificates/MRZMK7E13PYQ).
 - [Sertifikasi dari Dicoding "Dasar Dasar Pemrograman untuk Menjadi Pengembang Software"](https://www.dicoding.com/certificates/2VX327QJVPYQ).
