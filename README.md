@@ -1,18 +1,15 @@
-# Halo semua!
+# Hello there! I'm Yosua Putra Pratama
 
-Perkenalkan nama saya **Yosua Putra Pratama**.  
-Saya seorang **Developer** di Website [Imapres](https://imapres.wonogirikab.go.id/) 2021/2022.  
-Saya bertangguna jawab pada pengembangan dan perbaikan pada website Imapres tersebut dengan dibekali:
-- [Sertifikasi dari Dicoding "Dasar Pemrograman JavaScript"](https://www.dicoding.com/certificates/4EXG60VWEZRL).
-- [Sertifikasi dari Dicoding "Dasar Pemrograman Web"](https://www.dicoding.com/certificates/EYX47LDN6XDL).
-- [Sertifikasi dari Dicoding "Dasar Git dengan GitHub"](https://www.dicoding.com/certificates/MRZMK7E13PYQ).
-- [Sertifikasi dari Dicoding "Dasar Dasar Pemrograman untuk Menjadi Pengembang Software"](https://www.dicoding.com/certificates/2VX327QJVPYQ).
-- [Sertifikasi dari Dicoding "Logika Pemrograman (Programming Logic 101)"](https://www.dicoding.com/certificates/07Z6567MMXQR).
-- [Sertifikasi dari Dicoding "Dasar Visualisasi Data"](https://www.dicoding.com/certificates/MRZMKOVQ0PYQ).
-- [Sertifikasi dari progate "Khursus Python"](https://progate.com/course_certificate/0f8260d1qx0jex).
-- [Sertifikasi dari progate "Khursus Command Line"](http://progate.com/course_certificate/09664bfaqw6ya0).  
+I am a person who has high analytical skills and is skilled at operating various IT support platforms.  
+Easily adaptable to new things and good at building relationships with others and able to explain software  
+issues in easy-to-understand language.
 
-Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/yosua-pratama/)ku ya.
+As a **Web Developer** at [Imapres Wonogiri](https://imapres.wonogirikab.go.id/) 2021/2022.  
+I was provided with various certifications namely **Coursera, Dicoding, Kominfo** and **Agate**.
+I am responsible for the development and improvement of the Imapres website.
+
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/yosua-pratama/) account.  
+And you can visit my personal website in [Yosua Putra Pratama](https://yosuaputra.site)
 
 <p align="left">
 <a href="https://github.com/yosua08">
