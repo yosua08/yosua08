@@ -5,7 +5,7 @@ Easily adaptable to new things and good at building relationships with others an
 issues in easy-to-understand language.
 
 As a **Web Developer** at [Imapres Wonogiri](https://imapres.wonogirikab.go.id/) 2021/2022.  
-I was provided with various certifications namely **Coursera, Dicoding, Kominfo** and **Agate**.
+I was provided with various certifications namely **Coursera, Dicoding, Kominfo** and **Agate**.  
 I am responsible for the development and improvement of the Imapres website.
 
 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/yosua-pratama/) account.  
